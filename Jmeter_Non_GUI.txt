@@ -1,0 +1,10 @@
+Jmeter non GUI mode
+
+open command prompt
+
+go to the path of bin folder where jmeter is installed
+
+to execute in non GUI mode
+
+jmeter -n -t Aero.jmx -l result.jtl
+
