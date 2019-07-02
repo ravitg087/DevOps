@@ -8,3 +8,4 @@ to execute in non GUI mode
 
 jmeter -n -t Aero.jmx -l result.jtl
 
+finish
